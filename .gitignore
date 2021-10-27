@@ -1,0 +1,6 @@
+# java build stuff
+target/
+
+# IDE Config
+.idea/
+
